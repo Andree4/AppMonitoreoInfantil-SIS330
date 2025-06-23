@@ -181,6 +181,8 @@ cd nombre-repositorio
 - **Escalabilidad**: Usa AWS/GCP para múltiples usuarios. ☁️
 - **Mantenimiento**: Actualiza modelos y dependencias regularmente. 🛠️
 
+📄 [Artículo científico del proyecto](Documentos/Articulo Cientifico App Monitoreo Infantil.docx)
+
 # ✍️ Declaración de Autoría
 
 Yo, **Daniel Andree Arancibia Aguilar**, estudiante de **Ingeniería en Ciencias de la Computación** de la **Universidad Real y Pontificia San Francisco Xavier de Chuquisaca**, declaro que el presente proyecto —**"Software de Monitoreo de Contenido para Protección Infantil - SIS330"**— ha sido desarrollado de forma original, respetando los principios éticos y académicos.
