@@ -181,7 +181,8 @@ cd nombre-repositorio
 - **Escalabilidad**: Usa AWS/GCP para múltiples usuarios. ☁️
 - **Mantenimiento**: Actualiza modelos y dependencias regularmente. 🛠️
 
-📄 [Artículo científico del proyecto](Documentos/Articulo Cientifico App Monitoreo Infantil.docx)
+---
+📄 [Artículo científico del proyecto](Documentos/Articulo%20Cientifico%20App%20Monitoreo%20Infantil.docx)
 
 # ✍️ Declaración de Autoría
 
