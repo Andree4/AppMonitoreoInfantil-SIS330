@@ -1,5 +1,9 @@
 # 🌟 Software de Monitoreo de Contenido para Protección Infantil 🛡️
 
+Arancibia Aguilar Daniel Andree
+
+Ingeniería en Ciencias de la Computación
+
 ¡Bienvenidos a un proyecto que protege a los más pequeños en el mundo digital! 🚀 Esta aplicación Android utiliza inteligencia artificial (IA) para monitorear en tiempo real audio, imágenes y videos en dispositivos móviles, detectando contenido ofensivo, no apto para menores (NSFW) o violento con una precisión del **91-97%**. 📊 Emite alertas instantáneas a los padres y bloquea contenido con un PIN parental. 🔐
 
 ---
