@@ -1,8 +1,12 @@
-# 🌟 Software de Monitoreo de Contenido para Protección Infantil 🛡️
+# 🌟 Software de Monitoreo de Contenido para Protección Infantil - SIS330🛡️
 
 Arancibia Aguilar Daniel Andree
 
 Ingeniería en Ciencias de la Computación
+
+Septimo Semestre
+
+Universidad Real y Pontificia San Francisco Xavier de Chuquisaca
 
 ¡Bienvenidos a un proyecto que protege a los más pequeños en el mundo digital! 🚀 Esta aplicación Android utiliza inteligencia artificial (IA) para monitorear en tiempo real audio, imágenes y videos en dispositivos móviles, detectando contenido ofensivo, no apto para menores (NSFW) o violento con una precisión del **91-97%**. 📊 Emite alertas instantáneas a los padres y bloquea contenido con un PIN parental. 🔐
 
