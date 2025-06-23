@@ -178,3 +178,9 @@ cd nombre-repositorio
 - **Rendimiento**: Dispositivos de gama baja pueden tener retrasos con conexiones inestables. Optimiza la compresión si es necesario. 🐢
 - **Escalabilidad**: Usa AWS/GCP para múltiples usuarios. ☁️
 - **Mantenimiento**: Actualiza modelos y dependencias regularmente. 🛠️
+
+# ✍️ Declaración de Autoría
+
+Yo, **Daniel Andree Arancibia Aguilar**, estudiante de **Ingeniería en Ciencias de la Computación** de la **Universidad Real y Pontificia San Francisco Xavier de Chuquisaca**, declaro que el presente proyecto —**"Software de Monitoreo de Contenido para Protección Infantil - SIS330"**— ha sido desarrollado de forma original, respetando los principios éticos y académicos.
+
+**Fecha:** [23 - junio - 2025]
