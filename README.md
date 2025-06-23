@@ -2,7 +2,7 @@ Arancibia Aguilar Daniel Andree
 
 Ingeniería en Ciencias de la Computación - Septimo Semestre
 
-Contacto: daniel.arancibia40o0@gmail.com - +59170327769
+daniel.arancibia40o0@gmail.com
 
 Universidad Real y Pontificia San Francisco Xavier de Chuquisaca
 
